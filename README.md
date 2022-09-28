@@ -13,7 +13,11 @@ El usuario puede realizar las siguientes acciones:
 # Capturas
 
 ![Captura 1 Administrador de tienda](resources_github/captura1.png)
+
 ![Captura 2 Administrador de tienda](resources_github/captura2.png)
+
 ![Captura 3 Administrador de tienda](resources_github/captura3.png)
+
 ![Captura 4 Administrador de tienda](resources_github/captura4.png)
-![Captura 5 Administrador de tienda](resources_github/captura6.png)
+
+![Captura 5 Administrador de tienda](resources_github/captura5.png)
